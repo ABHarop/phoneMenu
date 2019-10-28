@@ -175,8 +175,13 @@ def airtelMoney():
                 print("Enter Number")
                 choice = ("Reply: ")
                 if len(choice) == 10:
-                    if choice[2] == '5' & choice[2] == '0':#begin from here
+                    if choice[0] == '0' and choice[1] == '7' and choice[2] == '5' or '0':#begin from here
                         print("begin")
+                        
+                elif:
+                    print('24Central Uganda')
+                    print('Digits must be 10')
+                    airtimeForAnother()
                 
         def buyData():
                 print("24Central Uganda")
